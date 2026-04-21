@@ -4,6 +4,11 @@ A backend system that enables students to book appointments with professors base
 
 ---
 
+# 🎥 Demo Videos
+
+- 📌 Code Overview Video: [See Code Overview](https://drive.google.com/file/d/1izZZTOFzyt1FD9BJzQT2iezCMpcTVRVk/view?usp=sharing) 
+- 📌 Postman Workflow Demo: [SeePostman Workflow Demo](https://drive.google.com/file/d/1XPv-leYlEbuzD2ZYrXFihHuNHN_oB90H/view?usp=sharing)  
+
 # 🚀 Summary
 
 This project implements a real-world appointment scheduling system where:
@@ -134,13 +139,6 @@ src/
 - startTime  
 - endTime  
 - status (booked / cancelled)  
-
----
-
-# 🎥 Demo Videos
-
-- 📌 Code Overview Video: [See Code Overview](https://drive.google.com/file/d/1izZZTOFzyt1FD9BJzQT2iezCMpcTVRVk/view?usp=sharing) 
-- 📌 Postman Workflow Demo: [See Postman Workflow Demo](https://drive.google.com/file/d/1XPv-leYlEbuzD2ZYrXFihHuNHN_oB90H/view?usp=sharing)  
 
 ---
 
